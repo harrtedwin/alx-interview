@@ -2,7 +2,6 @@
 <img width="260" height="170" src="https://www.flaticon.es/svg/static/icons/svg/3402/3402146.svg" align="right" >
 </p>
 
-# :colombia: 0x06. Log Parsing
 
 - Write a method that determines if a given data set represents a valid UTF-8 encoding.
 
@@ -25,17 +24,6 @@
 
     `./0-main.py`
 
-## Contributing
-
---Santiago Yanguas <br> - Holberton Student
-
-## Versioning
-
-For my learning of Interviews in Holberton School
-
-## Authors
-
----Santiago Yanguas 946@holbertonshcool.com
 
 ## Files
 
